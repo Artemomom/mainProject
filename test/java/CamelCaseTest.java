@@ -16,7 +16,7 @@ public class CamelCaseTest {
     private  List<Object> listWithNullElement;
     private String emptyList;
     private CamelCaseBusinessLogicClass camelCaseTest;
-    //camel case tests changes
+    //camel case tests changess
 
     @Before
     public  void setUp(){
